@@ -18,4 +18,4 @@ The script supports two methods for image segmentation:
 2. **Clustering**:
    - Uses the `KMeans` clustering algorithm from `scikit-learn` to segment images.
 
-The choice of the method can be selected by modifying the `method` parameter in the script:
+The choice of the method can be selected by modifying the `method` parameter in the script.
